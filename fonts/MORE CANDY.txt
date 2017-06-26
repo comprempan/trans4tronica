@@ -1,0 +1,93 @@
+advent (regular, bold, light)        RELEASE DATE 02/06/07
+
+
+
+1rst update : 04/06/07
+     
+      minor shape updates.
+
+2nd  update : 16/06/07
+      
+      major shape updates, major kerning updates.
+
+3rd  update : 16/06/07
+      
+      major shape updates, major kerning updates, regular rounded version added.
+
+4rth update : 21/06/07
+ 
+      MAJOR UPDATES, well, i worked a lot on this update, i managed to correct all metrics, kerning (letter distances)
+      for all possible letter combinations. ill give you an example of what i did with this:
+
+ 
+      AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZ
+      BABBBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZ
+      CACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZ
+      DADBDCDDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZ
+      EAEBECEDEEEFEGEHEIEJEk......... 
+
+      when i say any, i mean ANY POSSIBLE LETTER COMBINATION!
+
+
+      Also Managed to finish more weights of advent. the previous version "Light" became "Extra Light" 
+      and and the curent "Light" Version is a bit thicker. The same happened with "Bold" 
+      So that makes 2 new weights for you. Also i made an "Oblique" (not italic, oblique) version.
+      
+      That update gives almost the final shape for the advent font family.
+
+      the versions in this update:
+
+      Light
+      Light Extra
+      Bold
+      Bold Extra
+      Regular
+      Regular Oblique
+      Regular Rounded
+
+
+
+(not publication dates, the dates appearing are generation dates)
+
+
+well... atleast a lot of people will remember my birthday ;)
+
+
+_
+
+
+im pretty happy for the result and for the time spent on this project.
+this is a 3 ... if i do remember correctly, month project. 
+started by designing by hand using rapitograph (architectural design pen)
+traced and eddited with illustrator and finally refined in fontlab studio.
+
+
+Process update:
+well, the shape that advent is now is a 4 month work so far, really hard work.
+
+-
+
+usage notes.
+
+first of all please respect this gift. Realize that i didnt have to do this..
+and i could just sell this font.
+this is clearly for personal work. 
+if a designed project containing this typeface will be sold 
+there MUST be a refferance to me.
+
+(clearly personal projects are not neccessary to have a refferance to me)
+
+
+"EXACT" words of refferance: 
+
+designer of "advent" font Andreas K. inde  
+e-mail: inde.graphics@gmail.com
+
+-
+
+well, enjoy...
+
+
+
+
+
